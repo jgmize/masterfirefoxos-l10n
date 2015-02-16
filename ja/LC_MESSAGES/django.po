@@ -208,14 +208,16 @@ msgstr "デモのTIPS"
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
-#: db-strings.txt:168
+msgid "Demonstrations That Matter"
+msgstr "デモが重要"
+
+#. Translators:
+#. Page path: /1-1/demo-tips/
 msgid ""
-"<h2>Demonstrations That Matter</h2> Demonstrating the features of Firefox OS"
-" and how easy it is to use will be your best selling tool. Browse the "
-"demonstration videos below to get started."
-msgstr ""
-"<h2>デモが重要</h2>デモを通じて Firefox OS "
-"の機能と、それらが簡単に使えることを伝えてください。まずは以下のビデオを見せるところから始めましょう。"
+" Demonstrating the features of Firefox OS and how easy it is to use will be "
+"your best selling tool. Browse the demonstration videos below to get "
+"started."
+msgstr "デモを通じて Firefox OS の機能と、それらが簡単に使えることを伝えてください。まずは以下のビデオを見せるところから始めましょう。"
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
@@ -833,13 +835,21 @@ msgstr "質問をお持ちの場合は、こちらでその答えを探せます
 #. Page path: /1-4/frequently-asked-questions/
 #. Translators:
 #. Page path: /2-0/frequently-asked-questions/
-#: db-strings.txt:852 db-strings.txt.py:3246 db-strings.txt.py:5811
-#: db-strings.txt:8223
+msgid "You have questions? We have answers!"
+msgstr "質問への回答はこちら"
+
+#. Translators:
+#. Page path: /1-1/frequently-asked-questions/
+#. Translators:
+#. Page path: /1-3T/frequently-asked-questions/
+#. Translators:
+#. Page path: /1-4/frequently-asked-questions/
+#. Translators:
+#. Page path: /2-0/frequently-asked-questions/
 msgid ""
-"<h2>You have questions? We have answers!</h2> By now, you probably have "
-"questions and so will your customers! Select each question for more on "
-"Firefox OS."
-msgstr "<h2>質問への回答はこちら</h2>まだ解決されない疑問や質問があるかと思います。以下から質問とその回答を探してください。"
+" By now, you probably have questions and so will your customers! Select each"
+" question for more on Firefox OS."
+msgstr "まだ解決されない疑問や質問があるかと思います。以下から質問とその回答を探してください。"
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/

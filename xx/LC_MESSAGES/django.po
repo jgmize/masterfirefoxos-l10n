@@ -260,15 +260,14 @@ msgstr "Demo Tips yo-ho-ho❗"
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
-#: db-strings.txt:168
 msgid ""
-"<h2>Demonstrations That Matter</h2> Demonstrating the features of Firefox OS"
-" and how easy it is to use will be your best selling tool. Browse the "
-"demonstration videos below to get started."
+" Demonstrating the features of Firefox OS and how easy it is to use will be "
+"your best selling tool. Browse the demonstration videos below to get "
+"started."
 msgstr ""
-"<h2>Demonstrations That Matterr arrRRr❗</h2> Demonstratin' th' features o' "
-"Firefox OS and howw easy it is to use will be yerr best sellin' tool. Browse"
-" th' demonstration videos beloww to get start'd ye landlubbers❗."
+" Demonstratin' th' features o' Firefox OS and howw easy it is to use will be"
+" yerr best sellin' tool. Browse th' demonstration videos beloww to get "
+"start'd ye landlubbers❗."
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
@@ -518,22 +517,13 @@ msgstr "Customerr Guide arrRRRrrr❗"
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
-#: db-strings.txt:411
-#, fuzzy
-#| msgid ""
-#| "<h2>Who is your ideal Firefox customer?</h2> <p>Understanding your "
-#| "customer&rsquo;s needs and knowing how to respond on the spot is critical to"
-#| " any sales opportunity.<br />Check out the common customer segments below, "
-#| "and tap the bar to learn how to best respond to each of their unique "
-#| "needs.</p>"
 msgid ""
-"<h2>Who is your ideal Firefox customer?</h2> Understanding your customer’s "
-"needs and knowing how to respond on the spot is critical to any sales "
-"opportunity.<br>Check out the common customer segments below, and tap the "
-"bar to learn how to best respond to each of their unique needs."
+" Understanding your customer’s needs and knowing how to respond on the spot "
+"is critical to any sales opportunity.<br>Check out the common customer "
+"segments below, and tap the bar to learn how to best respond to each of "
+"their unique needs."
 msgstr ""
-"<h2>Who is yerr ideal Firefox customerr shiver me timbers❗?</h2> "
-"Undarrstandin' yerr customerr matey❗&rsquo;s needs and knowin' howw to "
+" Undarrstandin' yerr customerr matey❗&rsquo;s needs and knowin' howw to "
 "respond on th' spot is critical to any sales opportunity ye scalleywag❗.<br "
 "/>Check out th' common customerr segments beloww, and tap th' barr to learn "
 "howw to best respond to each o' theirr unique needs yo-ho-ho❗."
@@ -721,16 +711,14 @@ msgstr "Key Features prepare to be boarded❗"
 
 #. Translators:
 #. Page path: /1-1/key-features/
-#: db-strings.txt:546
 msgid ""
-"<h2>Features that count</h2> Firefox OS is packed with the features that "
-"your customers expect in a smartphone. It fits their lives perfectly so they"
-" can keep pace with the world around them. <h3>Have it all</h3>"
+" Firefox OS is packed with the features that your customers expect in a "
+"smartphone. It fits their lives perfectly so they can keep pace with the "
+"world around them. "
 msgstr ""
-"<h2>Features that count aye❗</h2> Firefox OS is pack'd wit' th' features "
-"that yerr customarrs expect in a smartphone. It fits theirr lives parrfectly"
-" so they can keep pace wit' th' world around them yo-ho-ho❗. <h3>Have it all"
-" ye landlubbers❗</h3>"
+" Firefox OS is pack'd wit' th' features that yerr customarrs expect in a "
+"smartphone. It fits theirr lives parrfectly so they can keep pace wit' th' "
+"world around them yo-ho-ho❗. "
 
 #. Translators:
 #. Page path: /1-1/key-features/
@@ -1010,16 +998,23 @@ msgstr ""
 #. Page path: /1-4/frequently-asked-questions/
 #. Translators:
 #. Page path: /2-0/frequently-asked-questions/
-#: db-strings.txt:852 db-strings.txt.py:3246 db-strings.txt.py:5811
-#: db-strings.txt:8223
+msgid "You have questions? We have answers!"
+msgstr "Ye' have questions? We have answarrs ye landlubbers❗❗"
+
+#. Translators:
+#. Page path: /1-1/frequently-asked-questions/
+#. Translators:
+#. Page path: /1-3T/frequently-asked-questions/
+#. Translators:
+#. Page path: /1-4/frequently-asked-questions/
+#. Translators:
+#. Page path: /2-0/frequently-asked-questions/
 msgid ""
-"<h2>You have questions? We have answers!</h2> By now, you probably have "
-"questions and so will your customers! Select each question for more on "
-"Firefox OS."
+" By now, you probably have questions and so will your customers! Select each"
+" question for more on Firefox OS."
 msgstr ""
-"<h2>Ye' have questions? We have answarrs ye landlubbers❗❗</h2> By noww, ye' "
-"probably have questions and so will yerr customarrs❗ Select each question "
-"fer more on Firefox OS aye❗."
+" By noww, ye' probably have questions and so will yerr customarrs❗ Select "
+"each question fer more on Firefox OS aye❗."
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
@@ -1384,15 +1379,14 @@ msgstr ""
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
-#: db-strings.txt:1077
 msgid ""
-"<h2>Ready to show what you know?</h2> Think you're ready to start selling "
-"Firefox OS to your customers? Put your knowledge to work and answer these "
-"questions to prove you have what it takes."
+" Think you're ready to start selling Firefox OS to your customers? Put your "
+"knowledge to work and answer these questions to prove you have what it "
+"takes."
 msgstr ""
-"<h2>Ready to showw what ye' knoww me mateys❗?</h2> Think you're ready to "
-"start sellin' Firefox OS to yerr customarrs? Put yerr knowledge to work and "
-"answerr these questions to prove ye' have what it takes ye landlubbers❗."
+" Think you're ready to start sellin' Firefox OS to yerr customarrs? Put yerr"
+" knowledge to work and answerr these questions to prove ye' have what it "
+"takes ye landlubbers❗."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -3033,21 +3027,14 @@ msgstr ""
 #. Page path: /1-3T/demo-tips/
 #. Translators:
 #. Page path: /2-0/demo-tips/
-#: db-strings.txt:2670 db-strings.txt.py:7656
-#, fuzzy
-#| msgid ""
-#| "<h2>Demonstrations That Matter</h2> <p>Demonstrating the features of Firefox"
-#| " OS and how easy it is to use will be your best selling tool.<br /><br "
-#| "/>Browse the demonstration videos below to get started.</p>"
 msgid ""
-"<h2>Demonstrations That Matter</h2> Demonstrating the features of Firefox OS"
-" and how easy it is to use will be your best selling tool.<br><br>Browse the"
-" demonstration videos below to get started."
+" Demonstrating the features of Firefox OS and how easy it is to use will be "
+"your best selling tool.<br><br>Browse the demonstration videos below to get "
+"started."
 msgstr ""
-"<h2>Demonstrations That Matterr arrRRr❗</h2> Demonstratin' th' features o' "
-"Firefox OS and howw easy it is to use will be yerr best sellin' tool "
-"cap'n❗.<br /><br />Browse th' demonstration videos beloww to get start'd "
-"arrRRRrrr❗."
+" Demonstratin' th' features o' Firefox OS and howw easy it is to use will be"
+" yerr best sellin' tool cap'n❗.<br /><br />Browse th' demonstration videos "
+"beloww to get start'd arrRRRrrr❗."
 
 #. Translators:
 #. Page path: /1-3T/demo-tips/
@@ -3186,22 +3173,22 @@ msgstr "hGvNjO82y-4 ye landlubbers❗"
 #. Page path: /1-4/customer-guide/
 #. Translators:
 #. Page path: /2-0/customer-guide/
-#: db-strings.txt:2832 db-strings.txt.py:5379 db-strings.txt.py:7791
-#, fuzzy
-#| msgid ""
-#| "<h2>Who is your ideal Firefox customer?</h2> <p>Understanding your "
-#| "customer&rsquo;s needs and knowing how to respond on the spot is critical to"
-#| " any sales opportunity.<br /><br />Check out the common customer segments "
-#| "below, then drag the bar to learn how to best respond to each of their "
-#| "unique needs.</p>"
+msgid "Who is your ideal Firefox customer?"
+msgstr "Who is yerr ideal Firefox customerr shiver me timbers❗?"
+
+#. Translators:
+#. Page path: /1-3T/customer-guide/
+#. Translators:
+#. Page path: /1-4/customer-guide/
+#. Translators:
+#. Page path: /2-0/customer-guide/
 msgid ""
-"<h2>Who is your ideal Firefox customer?</h2> Understanding your customer’s "
-"needs and knowing how to respond on the spot is critical to any sales "
-"opportunity.<br><br>Check out the common customer segments below, then drag "
-"the bar to learn how to best respond to each of their unique needs."
+" Understanding your customer’s needs and knowing how to respond on the spot "
+"is critical to any sales opportunity.<br><br>Check out the common customer "
+"segments below, then drag the bar to learn how to best respond to each of "
+"their unique needs."
 msgstr ""
-"<h2>Who is yerr ideal Firefox customerr shiver me timbers❗?</h2> "
-"Undarrstandin' yerr customerr matey❗&rsquo;s needs and knowin' howw to "
+" Undarrstandin' yerr customerr matey❗&rsquo;s needs and knowin' howw to "
 "respond on th' spot is critical to any sales opportunity ye scalleywag❗.<br "
 "/><br />Check out th' common customerr segments beloww, then drag th' barr "
 "to learn howw to best respond to each o' theirr unique needs ye "
@@ -3318,23 +3305,8 @@ msgstr ""
 #. Page path: /1-3T/key-features/
 #. Translators:
 #. Page path: /1-4/key-features/
-#: db-strings.txt:2976 db-strings.txt.py:5523
-#, fuzzy
-#| msgid ""
-#| "<h2>Features that count</h2> <p>Firefox OS is packed with the features that "
-#| "your customers expect in a smartphone. It&rsquo;s designed to fit their "
-#| "lives perfectly so they can keep pace with the world around them.</p> "
-#| "<h3>Have it all</h3>"
-msgid ""
-"<h2>Features that count</h2> Firefox OS is packed with the features that "
-"your customers expect in a smartphone. It’s designed to fit their lives "
-"perfectly so they can keep pace with the world around them. <h3>Have it "
-"all</h3>"
-msgstr ""
-"<h2>Features that count aye❗</h2> Firefox OS is pack'd wit' th' features "
-"that yerr customarrs expect in a smartphone. It cap'n❗&rsquo;s design'd to "
-"fit theirr lives parrfectly so they can keep pace wit' th' world around them"
-" arr❗. <h3>Have it all ye landlubbers❗</h3>"
+msgid "Have it all"
+msgstr "Have it all ye landlubbers❗"
 
 #. Translators:
 #. Page path: /1-3T/key-features/
@@ -3645,16 +3617,14 @@ msgstr ""
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
-#: db-strings.txt:3489
 msgid ""
-"<h2>Ready to show what you know?</h2> Think you are almost ready to start "
-"selling Firefox OS to your customers? Put your knowledge to the test and "
-"answer these questions to prove you have what it takes."
+" Think you are almost ready to start selling Firefox OS to your customers? "
+"Put your knowledge to the test and answer these questions to prove you have "
+"what it takes."
 msgstr ""
-"<h2>Ready to showw what ye' knoww me mateys❗?</h2> Think ye' bee almost "
-"ready to start sellin' Firefox OS to yerr customarrs? Put yerr knowledge to "
-"th' test and answerr these questions to prove ye' have what it takes shiver "
-"me timbers❗."
+" Think ye' bee almost ready to start sellin' Firefox OS to yerr customarrs? "
+"Put yerr knowledge to th' test and answerr these questions to prove ye' have"
+" what it takes shiver me timbers❗."
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -4537,21 +4507,19 @@ msgstr ""
 
 #. Translators:
 #. Page path: /1-4/demo-tips/
-#: db-strings.txt:5145
-#, fuzzy
-#| msgid ""
-#| "<h2>Demonstrations That Matter</h2> <p>Demonstrating the features of Firefox"
-#| " OS and how easy it is to use will be your best selling tool.<br /><br "
-#| "/>Browse the demonstration videos below to get started.</p>"
+msgid "Demonstrations That Matter"
+msgstr "Demonstrations That Matterr arrRRr❗"
+
+#. Translators:
+#. Page path: /1-4/demo-tips/
 msgid ""
-"<h2>Demonstrations That Matter</h2> Demonstrating the features of Firefox OS"
-" and how easy it is to use will be your best selling tool. So what should "
-"you show?<br><br>Browse the demonstration videos below to get started."
+" Demonstrating the features of Firefox OS and how easy it is to use will be "
+"your best selling tool. So what should you show?<br><br>Browse the "
+"demonstration videos below to get started."
 msgstr ""
-"<h2>Demonstrations That Matterr arrRRr❗</h2> Demonstratin' th' features o' "
-"Firefox OS and howw easy it is to use will be yerr best sellin' tool "
-"cap'n❗.<br /><br />Browse th' demonstration videos beloww to get start'd "
-"arrRRRrrr❗."
+" Demonstratin' th' features o' Firefox OS and howw easy it is to use will be"
+" yerr best sellin' tool cap'n❗.<br /><br />Browse th' demonstration videos "
+"beloww to get start'd arrRRRrrr❗."
 
 #. Translators:
 #. Page path: /1-4/demo-tips/
@@ -5450,23 +5418,24 @@ msgstr ""
 
 #. Translators:
 #. Page path: /2-0/key-features/
-#: db-strings.txt:7926
-#, fuzzy
-#| msgid ""
-#| "<h2>Features that count</h2> <p>Firefox OS is packed with the features that "
-#| "your customers expect in a smartphone. It&rsquo;s designed to fit their "
-#| "lives perfectly so they can keep pace with the world around them.</p> "
-#| "<h3>Have it all</h3>"
+msgid "Features that count"
+msgstr "Features that count aye❗"
+
+#. Translators:
+#. Page path: /2-0/key-features/
+msgid "Just what you need"
+msgstr "Have it all ye landlubbers❗"
+
+#. Translators:
+#. Page path: /2-0/key-features/
 msgid ""
-"<h2>Features that count</h2> Firefox OS is packed with the features that "
-"your customers expect in a smartphone. It’s designed to fit their lives "
-"perfectly so they can keep pace with the world around them. <h3>Just what "
-"you need</h3>"
+" Firefox OS is packed with the features that your customers expect in a "
+"smartphone. It’s designed to fit their lives perfectly so they can keep pace"
+" with the world around them. "
 msgstr ""
-"<h2>Features that count aye❗</h2> Firefox OS is pack'd wit' th' features "
-"that yerr customarrs expect in a smartphone. It cap'n❗&rsquo;s design'd to "
-"fit theirr lives parrfectly so they can keep pace wit' th' world around them"
-" arr❗. <h3>Have it all ye landlubbers❗</h3>"
+" Firefox OS is pack'd wit' th' features that yerr customarrs expect in a "
+"smartphone. It cap'n❗&rsquo;s design'd to fit theirr lives parrfectly so "
+"they can keep pace wit' th' world around them arr❗. "
 
 #. Translators:
 #. Page path: /2-0/key-features/
@@ -6855,9 +6824,6 @@ msgstr "Pirate aye❗"
 #~ msgid "Here’s what you can say"
 #~ msgstr "Harre’s what ye' can say ye landlubbers❗"
 
-#~ msgid "Who is your ideal Firefox customer?"
-#~ msgstr "Who is yerr ideal Firefox customerr shiver me timbers❗?"
-
 #~ msgid "Messages and Email..."
 #~ msgstr "Messages and Email cap'n❗..."
 
@@ -6890,17 +6856,8 @@ msgstr "Pirate aye❗"
 #~ msgstr ""
 #~ "Select th' forward arroww to discoverr th' key features o' Firefox OS ahoy❗."
 
-#~ msgid "Have it all"
-#~ msgstr "Have it all ye landlubbers❗"
-
-#~ msgid "Features that count"
-#~ msgstr "Features that count aye❗"
-
 #~ msgid " "
 #~ msgstr " "
-
-#~ msgid "You have questions? We have answers!"
-#~ msgstr "Ye' have questions? We have answarrs ye landlubbers❗❗"
 
 #~ msgid "Question 18"
 #~ msgstr "Question 18 ye landlubbers❗"

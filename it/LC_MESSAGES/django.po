@@ -238,15 +238,14 @@ msgstr "Suggerimenti per demo"
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
-#: db-strings.txt:168
 msgid ""
-"<h2>Demonstrations That Matter</h2> Demonstrating the features of Firefox OS"
-" and how easy it is to use will be your best selling tool. Browse the "
-"demonstration videos below to get started."
+" Demonstrating the features of Firefox OS and how easy it is to use will be "
+"your best selling tool. Browse the demonstration videos below to get "
+"started."
 msgstr ""
-"<h2>Dimostrazioni significative</h2> Una dimostrazione delle caratteristiche"
-" e della semplicità d’uso di Firefox OS è il migliore strumento di vendita a"
-" tua disposizione. Dai un’occhiata ai video dimostrativi per iniziare."
+" Una dimostrazione delle caratteristiche e della semplicità d’uso di Firefox"
+" OS è il migliore strumento di vendita a tua disposizione. Dai un’occhiata "
+"ai video dimostrativi per iniziare."
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
@@ -494,18 +493,16 @@ msgstr "Guida ai clienti"
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
-#: db-strings.txt:411
 msgid ""
-"<h2>Who is your ideal Firefox customer?</h2> Understanding your customer’s "
-"needs and knowing how to respond on the spot is critical to any sales "
-"opportunity.<br>Check out the common customer segments below, and tap the "
-"bar to learn how to best respond to each of their unique needs."
+" Understanding your customer’s needs and knowing how to respond on the spot "
+"is critical to any sales opportunity.<br>Check out the common customer "
+"segments below, and tap the bar to learn how to best respond to each of "
+"their unique needs."
 msgstr ""
-"<h2>Chi è il cliente ideale di Firefox?</h2> Capire le esigenze dei tuoi "
-"clienti e sapere come rispondere è fondamentale per qualunque opportunità di"
-" vendita.<br>Consulta le sezioni dedicate alle varie tipologie di cliente e "
-"trascina la barra per scoprire la risposta più adatta per ciascuna delle "
-"loro esigenze."
+" Capire le esigenze dei tuoi clienti e sapere come rispondere è fondamentale"
+" per qualunque opportunità di vendita.<br>Consulta le sezioni dedicate alle "
+"varie tipologie di cliente e trascina la barra per scoprire la risposta più "
+"adatta per ciascuna delle loro esigenze."
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
@@ -660,16 +657,14 @@ msgstr "Caratteristiche principali"
 
 #. Translators:
 #. Page path: /1-1/key-features/
-#: db-strings.txt:546
 msgid ""
-"<h2>Features that count</h2> Firefox OS is packed with the features that "
-"your customers expect in a smartphone. It fits their lives perfectly so they"
-" can keep pace with the world around them. <h3>Have it all</h3>"
+" Firefox OS is packed with the features that your customers expect in a "
+"smartphone. It fits their lives perfectly so they can keep pace with the "
+"world around them. "
 msgstr ""
-"<h2>Caratteristiche che contano</h2> Firefox OS include tutte le "
-"caratteristiche che i clienti si aspettano da uno smartphone. Si adatta "
-"perfettamente alle loro vite, consentendogli di tenere il passo con il mondo"
-" che li circonda. <h3>Tutto ciò che ti serve</h3>"
+" Firefox OS include tutte le caratteristiche che i clienti si aspettano da "
+"uno smartphone. Si adatta perfettamente alle loro vite, consentendogli di "
+"tenere il passo con il mondo che li circonda. "
 
 #. Translators:
 #. Page path: /1-1/key-features/
@@ -948,16 +943,23 @@ msgstr ""
 #. Page path: /1-4/frequently-asked-questions/
 #. Translators:
 #. Page path: /2-0/frequently-asked-questions/
-#: db-strings.txt:852 db-strings.txt.py:3246 db-strings.txt.py:5811
-#: db-strings.txt:8223
+msgid "You have questions? We have answers!"
+msgstr "Hai delle domande? Noi abbiamo le risposte"
+
+#. Translators:
+#. Page path: /1-1/frequently-asked-questions/
+#. Translators:
+#. Page path: /1-3T/frequently-asked-questions/
+#. Translators:
+#. Page path: /1-4/frequently-asked-questions/
+#. Translators:
+#. Page path: /2-0/frequently-asked-questions/
 msgid ""
-"<h2>You have questions? We have answers!</h2> By now, you probably have "
-"questions and so will your customers! Select each question for more on "
-"Firefox OS."
+" By now, you probably have questions and so will your customers! Select each"
+" question for more on Firefox OS."
 msgstr ""
-"<h2>Hai delle domande? Noi abbiamo le risposte</h2> A questo punto avrai "
-"sicuramente delle domande, così come i tuoi clienti. Seleziona una domanda "
-"qualsiasi per ulteriori informazioni su Firefox OS."
+" A questo punto avrai sicuramente delle domande, così come i tuoi clienti. "
+"Seleziona una domanda qualsiasi per ulteriori informazioni su Firefox OS."
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
@@ -1290,15 +1292,14 @@ msgstr ""
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
-#: db-strings.txt:1077
 msgid ""
-"<h2>Ready to show what you know?</h2> Think you're ready to start selling "
-"Firefox OS to your customers? Put your knowledge to work and answer these "
-"questions to prove you have what it takes."
+" Think you're ready to start selling Firefox OS to your customers? Put your "
+"knowledge to work and answer these questions to prove you have what it "
+"takes."
 msgstr ""
-"<h2>Sei pronto a mostrarci che cosa hai imparato?</h2> Pensi di essere "
-"pronto per iniziare a vendere Firefox OS ai tuoi clienti? Sfrutta ciò che "
-"hai imparato e rispondi alle domande per dimostrare che hai ciò che serve."
+" Pensi di essere pronto per iniziare a vendere Firefox OS ai tuoi clienti? "
+"Sfrutta ciò che hai imparato e rispondi alle domande per dimostrare che hai "
+"ciò che serve."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -2731,16 +2732,14 @@ msgstr ""
 #. Page path: /1-3T/demo-tips/
 #. Translators:
 #. Page path: /2-0/demo-tips/
-#: db-strings.txt:2670 db-strings.txt.py:7656
 msgid ""
-"<h2>Demonstrations That Matter</h2> Demonstrating the features of Firefox OS"
-" and how easy it is to use will be your best selling tool.<br><br>Browse the"
-" demonstration videos below to get started."
+" Demonstrating the features of Firefox OS and how easy it is to use will be "
+"your best selling tool.<br><br>Browse the demonstration videos below to get "
+"started."
 msgstr ""
-"<h2>Dimostrazioni significative</h2> Una dimostrazione delle caratteristiche"
-" e della semplicità d’uso di Firefox OS è il migliore strumento di vendita a"
-" tua disposizione.<br><br>Dai un’occhiata ai video dimostrativi per "
-"iniziare."
+" Una dimostrazione delle caratteristiche e della semplicità d’uso di Firefox"
+" OS è il migliore strumento di vendita a tua disposizione.<br><br>Dai "
+"un’occhiata ai video dimostrativi per iniziare."
 
 #. Translators:
 #. Page path: /1-3T/demo-tips/
@@ -2868,18 +2867,25 @@ msgstr "hGvNjO82y-4"
 #. Page path: /1-4/customer-guide/
 #. Translators:
 #. Page path: /2-0/customer-guide/
-#: db-strings.txt:2832 db-strings.txt.py:5379 db-strings.txt.py:7791
+msgid "Who is your ideal Firefox customer?"
+msgstr "Chi è il cliente ideale di Firefox?"
+
+#. Translators:
+#. Page path: /1-3T/customer-guide/
+#. Translators:
+#. Page path: /1-4/customer-guide/
+#. Translators:
+#. Page path: /2-0/customer-guide/
 msgid ""
-"<h2>Who is your ideal Firefox customer?</h2> Understanding your customer’s "
-"needs and knowing how to respond on the spot is critical to any sales "
-"opportunity.<br><br>Check out the common customer segments below, then drag "
-"the bar to learn how to best respond to each of their unique needs."
+" Understanding your customer’s needs and knowing how to respond on the spot "
+"is critical to any sales opportunity.<br><br>Check out the common customer "
+"segments below, then drag the bar to learn how to best respond to each of "
+"their unique needs."
 msgstr ""
-"<h2>Chi è il cliente ideale di Firefox?</h2> Capire le esigenze dei tuoi "
-"clienti e sapere come rispondere è fondamentale per qualunque opportunità di"
-" vendita.<br><br>Consulta le sezioni dedicate alle varie tipologie di "
-"cliente e trascina la barra per scoprire la risposta più adatta per ciascuna"
-" delle loro esigenze."
+" Capire le esigenze dei tuoi clienti e sapere come rispondere è fondamentale"
+" per qualunque opportunità di vendita.<br><br>Consulta le sezioni dedicate "
+"alle varie tipologie di cliente e trascina la barra per scoprire la risposta"
+" più adatta per ciascuna delle loro esigenze."
 
 #. Translators:
 #. Page path: /1-3T/customer-guide/
@@ -2957,17 +2963,8 @@ msgstr ""
 #. Page path: /1-3T/key-features/
 #. Translators:
 #. Page path: /1-4/key-features/
-#: db-strings.txt:2976 db-strings.txt.py:5523
-msgid ""
-"<h2>Features that count</h2> Firefox OS is packed with the features that "
-"your customers expect in a smartphone. It’s designed to fit their lives "
-"perfectly so they can keep pace with the world around them. <h3>Have it "
-"all</h3>"
-msgstr ""
-"<h2>Caratteristiche che contano</h2> Firefox OS include tutte le "
-"caratteristiche che i clienti si aspettano da uno smartphone. Si adatta "
-"perfettamente alle loro vite, consentendogli di tenere il passo con il mondo"
-" che li circonda.<h3>Tutto ciò che ti serve</h3>"
+msgid "Have it all"
+msgstr "Tutto ciò che ti serve"
 
 #. Translators:
 #. Page path: /1-3T/key-features/
@@ -3243,15 +3240,14 @@ msgstr ""
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
-#: db-strings.txt:3489
 msgid ""
-"<h2>Ready to show what you know?</h2> Think you are almost ready to start "
-"selling Firefox OS to your customers? Put your knowledge to the test and "
-"answer these questions to prove you have what it takes."
+" Think you are almost ready to start selling Firefox OS to your customers? "
+"Put your knowledge to the test and answer these questions to prove you have "
+"what it takes."
 msgstr ""
-"<h2>Sei pronto a mostrarci che cosa hai imparato?</h2> Pensi di essere "
-"pronto per iniziare a vendere Firefox OS ai tuoi clienti? Sfrutta ciò che "
-"hai imparato e rispondi alle domande per dimostrare che hai ciò che serve."
+" Pensi di essere pronto per iniziare a vendere Firefox OS ai tuoi clienti? "
+"Sfrutta ciò che hai imparato e rispondi alle domande per dimostrare che hai "
+"ciò che serve."
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -3999,16 +3995,19 @@ msgstr ""
 
 #. Translators:
 #. Page path: /1-4/demo-tips/
-#: db-strings.txt:5145
+msgid "Demonstrations That Matter"
+msgstr "Dimostrazioni significative"
+
+#. Translators:
+#. Page path: /1-4/demo-tips/
 msgid ""
-"<h2>Demonstrations That Matter</h2> Demonstrating the features of Firefox OS"
-" and how easy it is to use will be your best selling tool. So what should "
-"you show?<br><br>Browse the demonstration videos below to get started."
+" Demonstrating the features of Firefox OS and how easy it is to use will be "
+"your best selling tool. So what should you show?<br><br>Browse the "
+"demonstration videos below to get started."
 msgstr ""
-"<h2>Dimostrazioni significative</h2> Una dimostrazione delle caratteristiche"
-" e della semplicità d’uso di Firefox OS è il migliore strumento di vendita a"
-" tua disposizione.<br><br>Dai un’occhiata ai video dimostrativi per "
-"iniziare."
+" Una dimostrazione delle caratteristiche e della semplicità d’uso di Firefox"
+" OS è il migliore strumento di vendita a tua disposizione.<br><br>Dai "
+"un’occhiata ai video dimostrativi per iniziare."
 
 #. Translators:
 #. Page path: /1-4/demo-tips/
@@ -4687,17 +4686,24 @@ msgstr ""
 
 #. Translators:
 #. Page path: /2-0/key-features/
-#: db-strings.txt:7926
+msgid "Features that count"
+msgstr "Caratteristiche che contano"
+
+#. Translators:
+#. Page path: /2-0/key-features/
+msgid "Just what you need"
+msgstr "Esattamente ciò che ti serve"
+
+#. Translators:
+#. Page path: /2-0/key-features/
 msgid ""
-"<h2>Features that count</h2> Firefox OS is packed with the features that "
-"your customers expect in a smartphone. It’s designed to fit their lives "
-"perfectly so they can keep pace with the world around them. <h3>Just what "
-"you need</h3>"
+" Firefox OS is packed with the features that your customers expect in a "
+"smartphone. It’s designed to fit their lives perfectly so they can keep pace"
+" with the world around them. "
 msgstr ""
-"<h2>Caratteristiche che contano</h2> Firefox OS include tutte le "
-"caratteristiche che i clienti si aspettano da uno smartphone. Si adatta "
-"perfettamente alle loro vite, consentendogli di tenere il passo con il mondo"
-" che li circonda.<h3>Esattamente ciò che ti serve</h3>"
+" Firefox OS include tutte le caratteristiche che i clienti si aspettano da "
+"uno smartphone. Si adatta perfettamente alle loro vite, consentendogli di "
+"tenere il passo con il mondo che li circonda."
 
 #. Translators:
 #. Page path: /2-0/key-features/
@@ -5807,17 +5813,8 @@ msgstr "Pirata"
 #~ msgid "Demonstrations that matter"
 #~ msgstr "Dimostrazioni significative"
 
-#~ msgid "Who is your ideal Firefox customer?"
-#~ msgstr "Chi è il cliente ideale di Firefox?"
-
 #~ msgid "What can you say?"
 #~ msgstr "Ecco che cosa puoi rispondere"
-
-#~ msgid "Features that count"
-#~ msgstr "Caratteristiche che contano"
-
-#~ msgid "Have it all"
-#~ msgstr "Tutto ciò che ti serve"
 
 #~ msgid "Select the forward arrow to discover the key features of Firefox OS."
 #~ msgstr ""
@@ -5853,9 +5850,6 @@ msgstr "Pirata"
 
 #~ msgid "SMS and Email..."
 #~ msgstr "SMS e Email..."
-
-#~ msgid "You have questions? We have answers!"
-#~ msgstr "Hai delle domande? Noi abbiamo le risposte"
 
 #~ msgid "Here’s what you can say"
 #~ msgstr "Caratteristiche che contano"

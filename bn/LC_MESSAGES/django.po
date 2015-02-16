@@ -791,16 +791,23 @@ msgstr ""
 #. Page path: /1-4/frequently-asked-questions/
 #. Translators:
 #. Page path: /2-0/frequently-asked-questions/
-#: db-strings.txt:852 db-strings.txt.py:3246 db-strings.txt.py:5811
-#: db-strings.txt:8223
+msgid "You have questions? We have answers!"
+msgstr "আপনার কোন প্রশ্ন আছে? আমাদের উত্তরও তৈরি!"
+
+#. Translators:
+#. Page path: /1-1/frequently-asked-questions/
+#. Translators:
+#. Page path: /1-3T/frequently-asked-questions/
+#. Translators:
+#. Page path: /1-4/frequently-asked-questions/
+#. Translators:
+#. Page path: /2-0/frequently-asked-questions/
 msgid ""
-"<h2>You have questions? We have answers!</h2> By now, you probably have "
-"questions and so will your customers! Select each question for more on "
-"Firefox OS."
+" By now, you probably have questions and so will your customers! Select each"
+" question for more on Firefox OS."
 msgstr ""
-"<h2>আপনার কোন প্রশ্ন আছে? আমাদের উত্তরও তৈরি!</h2> এরই মধ্যে আপনার মনে "
-"নিশ্চয়ই প্রশ্ন জেগেছে এবং আপনার ক্রেতার মনেও জাগবে! Firefox OS সম্পর্কে আরো"
-" জানতে যেকোনো একটি প্রশ্ন বেছে নিন।"
+" এরই মধ্যে আপনার মনে নিশ্চয়ই প্রশ্ন জেগেছে এবং আপনার ক্রেতার মনেও জাগবে! "
+"Firefox OS সম্পর্কে আরো জানতে যেকোনো একটি প্রশ্ন বেছে নিন।"
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
@@ -2555,17 +2562,24 @@ msgstr ""
 #. Page path: /1-4/customer-guide/
 #. Translators:
 #. Page path: /2-0/customer-guide/
-#: db-strings.txt:2832 db-strings.txt.py:5379 db-strings.txt.py:7791
+msgid "Who is your ideal Firefox customer?"
+msgstr "কে আপনার জন্য আদর্শ Firefox ক্রেতা?"
+
+#. Translators:
+#. Page path: /1-3T/customer-guide/
+#. Translators:
+#. Page path: /1-4/customer-guide/
+#. Translators:
+#. Page path: /2-0/customer-guide/
 msgid ""
-"<h2>Who is your ideal Firefox customer?</h2> Understanding your customer’s "
-"needs and knowing how to respond on the spot is critical to any sales "
-"opportunity.<br><br>Check out the common customer segments below, then drag "
-"the bar to learn how to best respond to each of their unique needs."
+" Understanding your customer’s needs and knowing how to respond on the spot "
+"is critical to any sales opportunity.<br><br>Check out the common customer "
+"segments below, then drag the bar to learn how to best respond to each of "
+"their unique needs."
 msgstr ""
-"<h2>কে আপনার জন্য আদর্শ Firefox ক্রেতা?</h2> আপনার ক্রেতার প্রয়োজন বোঝা এবং"
-" তাৎক্ষণিকভাবে জবাব দিতে জানা যে কোন বিক্রয় সুযোগের জন্য "
-"গুরুত্বপূর্ণ।<br><br>নিচে ব্যবহারকারীর সাধারণ কতোগুলো ধরন দেয়া হলো, "
-"বিভিন্নজনের অনন্য প্রশ্নের উত্তম জবাব দেওয়া শিখতে বারটি টানুন।"
+" আপনার ক্রেতার প্রয়োজন বোঝা এবং তাৎক্ষণিকভাবে জবাব দিতে জানা যে কোন বিক্রয়"
+" সুযোগের জন্য গুরুত্বপূর্ণ।<br><br>নিচে ব্যবহারকারীর সাধারণ কতোগুলো ধরন "
+"দেয়া হলো, বিভিন্নজনের অনন্য প্রশ্নের উত্তম জবাব দেওয়া শিখতে বারটি টানুন।"
 
 #. Translators:
 #. Page path: /1-3T/customer-guide/
@@ -2624,16 +2638,28 @@ msgstr ""
 #. Page path: /1-3T/key-features/
 #. Translators:
 #. Page path: /1-4/key-features/
-#: db-strings.txt:2976 db-strings.txt.py:5523
+msgid "Features that count"
+msgstr "পছন্দের সব সুবিধা"
+
+#. Translators:
+#. Page path: /1-3T/key-features/
+#. Translators:
+#. Page path: /1-4/key-features/
+msgid "Have it all"
+msgstr "সবকিছু আছে"
+
+#. Translators:
+#. Page path: /1-3T/key-features/
+#. Translators:
+#. Page path: /1-4/key-features/
 msgid ""
-"<h2>Features that count</h2> Firefox OS is packed with the features that "
-"your customers expect in a smartphone. It’s designed to fit their lives "
-"perfectly so they can keep pace with the world around them. <h3>Have it "
-"all</h3>"
+" Firefox OS is packed with the features that your customers expect in a "
+"smartphone. It’s designed to fit their lives perfectly so they can keep pace"
+" with the world around them. "
 msgstr ""
-"<h2>পছন্দের সব সুবিধা</h2> একটি স্মার্টফোনে ক্রেতা যা যা প্রত্যাশা করে তার "
-"সবই Firefox OS এ রয়েছে। এটি তাদের জীবন যাপনের সাথে এমনভাবে খাপ খাইয়ে নিবে "
-"যাতে তারা বাইরের দুনিয়ার সাথে তাল মিলিয়ে চলতে পারেন। <h3>সবকিছু আছে</h3>"
+" একটি স্মার্টফোনে ক্রেতা যা যা প্রত্যাশা করে তার সবই Firefox OS এ রয়েছে। "
+"এটি তাদের জীবন যাপনের সাথে এমনভাবে খাপ খাইয়ে নিবে যাতে তারা বাইরের দুনিয়ার"
+" সাথে তাল মিলিয়ে চলতে পারেন। "
 
 #. Translators:
 #. Page path: /1-3T/key-features/
@@ -3522,15 +3548,19 @@ msgstr ""
 
 #. Translators:
 #. Page path: /1-4/demo-tips/
-#: db-strings.txt:5145
+msgid "Demonstrations That Matter"
+msgstr "প্রদর্শনী যা আসলেই গুরুত্বপূর্ণ"
+
+#. Translators:
+#. Page path: /1-4/demo-tips/
 msgid ""
-"<h2>Demonstrations That Matter</h2> Demonstrating the features of Firefox OS"
-" and how easy it is to use will be your best selling tool. So what should "
-"you show?<br><br>Browse the demonstration videos below to get started."
+" Demonstrating the features of Firefox OS and how easy it is to use will be "
+"your best selling tool. So what should you show?<br><br>Browse the "
+"demonstration videos below to get started."
 msgstr ""
-"<h2>প্রদর্শনী যা আসলেই গুরুত্বপূর্ণ</h2> Firefox OS এর  বৈশিষ্ট্যগুলোর "
-"পরিবর্তন এবং তা কত সহজে ব্যবহার করা যায় তা হবে বিক্রয়ের জন্য আপনার সবচেয়ে"
-" ভালো টুল।<br><br>শুরু করতে নিচের প্রদর্শনের ভিডিওগুলো ব্রাউজ করুন। "
+" Firefox OS এর  বৈশিষ্ট্যগুলোর পরিবর্তন এবং তা কত সহজে ব্যবহার করা যায় তা "
+"হবে বিক্রয়ের জন্য আপনার সবচেয়ে ভালো টুল।<br><br>শুরু করতে নিচের প্রদর্শনের"
+" ভিডিওগুলো ব্রাউজ করুন। "
 
 #. Translators:
 #. Page path: /1-4/demo-tips/

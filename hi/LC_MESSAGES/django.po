@@ -231,15 +231,18 @@ msgstr "प्रदर्शन सुझाव"
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
-#: db-strings.txt:168
+msgid "Demonstrations That Matter"
+msgstr "फ़ायरफ़ॉक्स ओएस की विशेषताओं का प्रदर्शन"
+
+#. Translators:
+#. Page path: /1-1/demo-tips/
 msgid ""
-"<h2>Demonstrations That Matter</h2> Demonstrating the features of Firefox OS"
-" and how easy it is to use will be your best selling tool. Browse the "
-"demonstration videos below to get started."
+" Demonstrating the features of Firefox OS and how easy it is to use will be "
+"your best selling tool. Browse the demonstration videos below to get "
+"started."
 msgstr ""
-"<h2>फ़ायरफ़ॉक्स ओएस की विशेषताओं का प्रदर्शन</h2>बिक्री करने के लिए इसका सरल"
-" उपयोग आपका सबसे बेहतर उपकरण होगा. तो आपको क्या दिखाना चाहिए.आरंभ करने के "
-"लिए नीचे दिए गए प्रदर्शन वीडियो को खोलें."
+"बिक्री करने के लिए इसका सरल उपयोग आपका सबसे बेहतर उपकरण होगा. तो आपको क्या "
+"दिखाना चाहिए.आरंभ करने के लिए नीचे दिए गए प्रदर्शन वीडियो को खोलें."
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
@@ -941,16 +944,23 @@ msgstr ""
 #. Page path: /1-4/frequently-asked-questions/
 #. Translators:
 #. Page path: /2-0/frequently-asked-questions/
-#: db-strings.txt:852 db-strings.txt.py:3246 db-strings.txt.py:5811
-#: db-strings.txt:8223
+msgid "You have questions? We have answers!"
+msgstr "आप प्रश्न हैं? हम जवाब है!"
+
+#. Translators:
+#. Page path: /1-1/frequently-asked-questions/
+#. Translators:
+#. Page path: /1-3T/frequently-asked-questions/
+#. Translators:
+#. Page path: /1-4/frequently-asked-questions/
+#. Translators:
+#. Page path: /2-0/frequently-asked-questions/
 msgid ""
-"<h2>You have questions? We have answers!</h2> By now, you probably have "
-"questions and so will your customers! Select each question for more on "
-"Firefox OS."
+" By now, you probably have questions and so will your customers! Select each"
+" question for more on Firefox OS."
 msgstr ""
-"<h2>आप प्रश्न हैं? हम जवाब है!</h2> अब तक, आप शायद प्रश्न हैं और इसलिए अपने "
-"ग्राहकों को होगा! फ़ायरफ़ॉक्स ओएस पर अधिक के लिए प्रत्येक प्रश्न का चयन "
-"करें."
+" अब तक, आप शायद प्रश्न हैं और इसलिए अपने ग्राहकों को होगा! फ़ायरफ़ॉक्स ओएस "
+"पर अधिक के लिए प्रत्येक प्रश्न का चयन करें."
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
@@ -6225,9 +6235,6 @@ msgstr ""
 
 #~ msgid "SMS and Email..."
 #~ msgstr "संदेश और ईमेल..."
-
-#~ msgid "You have questions? We have answers!"
-#~ msgstr "आपके पास सवाल हैं? हमारे पास उसके जवाब हैं!"
 
 #~ msgid "Here’s what you can say"
 #~ msgstr "यहाँ है जो आप कह सकते हैं"
